@@ -8,3 +8,16 @@
   -moz-animation: Gradient 10s ease infinite;
   animation: Gradient 10s ease infinite !important;
 }
+/* 整体内容宽度 */
+.layout {
+  max-width: 1500px;
+}
+/* 文章正文 */
+.post-content {
+  font-size: 25px;
+  line-height: 2.5;
+}
+/* 文章字体改为楷体 */
+.post-content {
+  font-family: "KaiTi","楷体","STKaiti","KaiTi_GB2312",serif;
+}
