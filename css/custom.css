@@ -21,3 +21,13 @@
 .post-content {
   font-family: "KaiTi","楷体","STKaiti","KaiTi_GB2312",serif;
 }
+.notice-link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.notice-link:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
